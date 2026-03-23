@@ -5,7 +5,7 @@
     <link>https://ryan-serpico.github.io/nicar-podcast-feed</link>
     <description>Audio recordings from the NICAR 2026 data journalism conference, held March 5-8, 2026 in Indianapolis. Produced by Investigative Reporters and Editors (IRE).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 22:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:58:15 +0000</lastBuildDate>
     <atom:link href="https://ryan-serpico.github.io/nicar-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>IRE &amp; NICAR</itunes:author>
     <itunes:summary>Audio recordings from the NICAR 2026 data journalism conference.</itunes:summary>
@@ -33,7 +33,7 @@ Speakers: Francisco Vara-Orta, Investigative Reporters &amp; Editors; Adam Rhode
       <itunes:author>Francisco Vara-Orta, Investigative Reporters &amp; Editors; Adam Rhodes, IRE &amp; NICAR</itunes:author>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Sunday, March 8, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Sunday, March 8, 2:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Data-driven stories ideas for students</title>
@@ -58,7 +58,7 @@ Slides: https://resources.ire.org/tipsheets/20260308-1335.pdf</description>
       <itunes:author>Gerry Lanosga, Indiana University; Diana Fuentes, Investigative Reporters &amp; Editors; Craig Lyons, Arnolt Center for Investigative Journalism</itunes:author>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Sunday, March 8, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Sunday, March 8, 2:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Use our quiz to focus on policy, not politics, in 2026</title>
@@ -85,7 +85,7 @@ Website: https://www.quizthevote.com/</description>
       <itunes:author>Evan Wyloge, Independent journalist; sandra fish, QuizTheVote</itunes:author>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Sunday, March 8, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Sunday, March 8, 1:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>AI tools journalists can use ethically</title>
@@ -100,7 +100,7 @@ Website: https://www.quizthevote.com/</description>
 &lt;/ul&gt;</content:encoded>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Sunday, March 8, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Sunday, March 8, 1:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Uncovering wrongdoing with AI: Real-world methods and ethical boundaries</title>
@@ -127,7 +127,7 @@ Attendees will leave with concrete methods for turning messy, unstructured data 
       <itunes:author>Sotirios Sideris, Nieman Foundation for Journalism at Harvard University; Eva Constantaras, Lighthouse Reports; Sanjin Ibrahimovic, MuckRock; Jonathan Soma, Columbia University</itunes:author>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 10:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Turn the impossible into the doable: The random sample as a reporting tool</title>
@@ -146,7 +146,7 @@ Speakers: Rae Ellen Bichell, KFF Health News; Maia Rosenfeld, KFF Health News</d
       <itunes:author>Rae Ellen Bichell, KFF Health News; Maia Rosenfeld, KFF Health News</itunes:author>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How to use AI responsibly</title>
@@ -175,7 +175,7 @@ Slides: https://resources.ire.org/tipsheets/20260307-1034.pdf</description>
       <itunes:author>Lisa Pickoff-White, California Reporting Project; Sachita Nishal, Northwestern University; Dylan Freedman, The New York Times; Katey Rusch, UC Berkeley</itunes:author>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Fun with hypotheticals: Investigating your dubious data dilemmas in real time</title>
@@ -200,7 +200,7 @@ Tipsheet: https://resources.ire.org/tipsheets/20260307-1031.pdf</description>
       <itunes:author>Adiel Kaplan, Tow-Knight Center for Journalism Futures; Veronica Penney, American Association for the Advancement of Science; Emily Zentner, The California Newsroom</itunes:author>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Elections 2026: Uncovering influence operations in the U.S.</title>
@@ -219,7 +219,7 @@ Speakers: Anna Massoglia, MuckRock; Robert Maguire, Citizens for Responsibility 
       <itunes:author>Anna Massoglia, MuckRock; Robert Maguire, Citizens for Responsibility and Ethics in Washington</itunes:author>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Immigration data and how to make sense of it</title>
@@ -240,7 +240,7 @@ Speakers: Will Craft, The Guardian; Leon Yin, Bloomberg News; Tanvi Misra, Indep
       <itunes:author>Will Craft, The Guardian; Leon Yin, Bloomberg News; Tanvi Misra, Independent journalist; Elena Mejia, Bloomberg</itunes:author>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How to avoid a midterm meltdown: Tips for covering elections</title>
@@ -266,7 +266,7 @@ Slides: https://resources.ire.org/tipsheets/20260307-1215.pdf</description>
       <itunes:author>Phoebe Quinton, Atlanta Journal-Constitution; Derek Willis, University of Maryland; Alexandra Glorioso, Miami Herald</itunes:author>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Data crowd competition: 40 ideas in 40 minutes</title>
@@ -291,7 +291,7 @@ Slides: https://resources.ire.org/tipsheets/20260307-1156.pdf</description>
       <itunes:author>David Cuillier, Brechner FOI Project; Cierra Putman, WTHR; Samantha Sunne, Independent journalist</itunes:author>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Covering growing corporate power, even on deadline</title>
@@ -314,7 +314,7 @@ Slides: https://resources.ire.org/tipsheets/20260307-1194.pdf</description>
       <itunes:author>Arlene Martinez, Good Jobs First</itunes:author>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Using open-source intelligence (OSINT) in investigations</title>
@@ -334,7 +334,7 @@ Speakers: Tristan Lee, Decoherence Media; Jennefer Harper, Decoherence Media; Al
       <itunes:author>Tristan Lee, Decoherence Media; Jennefer Harper, Decoherence Media; Alison Killing, Financial Times</itunes:author>
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Big Local News tools, wares and resources</title>
@@ -356,7 +356,7 @@ Speakers: Ryan Pitts, Big Local News; Cheryl Phillips, Big Local News; Gerald Ri
       <itunes:author>Ryan Pitts, Big Local News; Cheryl Phillips, Big Local News; Gerald Rich, Big Local News; Serdar Tumgoren, Big Local News; Rosie Cima, Big Local News</itunes:author>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Becoming acquainted with your city as a data reporter with no beat</title>
@@ -377,7 +377,7 @@ Speakers: Sahana Jayaraman, The Baltimore Banner; Bianca Pallaro, The New York T
       <itunes:author>Sahana Jayaraman, The Baltimore Banner; Bianca Pallaro, The New York Times; Elliott Ramos, CBS News; Kara Newhouse, Howard Center for Investigative Journalism</itunes:author>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Saturday, March 7, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Saturday, March 7, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>The price of recovery: How to investigate opioid settlement spending</title>
@@ -481,7 +481,7 @@ Slides: https://resources.ire.org/tipsheets/20260307-1054.pdf</description>
 &lt;/ul&gt;</content:encoded>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How to do data-driven work in small communities</title>
@@ -503,7 +503,7 @@ Speakers: Pam Dempsey, Northwestern University; Jill Blackman, Northwestern Univ
       <itunes:author>Pam Dempsey, Northwestern University; Jill Blackman, Northwestern University; Aallyah Wright, Capital B News; Erica Peterson, Mountain State Spotlight; Chris Farone, Boston Institute for Nonprofit Journalism</itunes:author>
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Cheatsheet: An investigative spreadsheet tool powered by A.I.</title>
@@ -524,7 +524,7 @@ Cheatsheet is a smart spreadsheet application that makes it quick and easy to an
       <itunes:author>Dylan Freedman, The New York Times; Teresa Mondría Terol, The New York Times</itunes:author>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Behind the stories: 2025 Philip Meyer Winners</title>
@@ -542,7 +542,7 @@ Speakers: Brant Houston, University of Illinois</description>
       <itunes:author>Brant Houston, University of Illinois</itunes:author>
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Teaching data journalism in the AI era</title>
@@ -563,7 +563,7 @@ Speakers: Alex Richards, Syracuse University; Matt Waite, University of Nebraska
       <itunes:author>Alex Richards, Syracuse University; Matt Waite, University of Nebraska; Elisabeth Gawthrop, American Public Media; Rahul Bhargava, Northeastern University</itunes:author>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Investigating the Epstein Files</title>
@@ -582,7 +582,7 @@ Speakers: Alex Richards, Syracuse University; Matt Waite, University of Nebraska
       <itunes:author>Rob Barry, The Wall Street Journal; Jack Gillum, The Wall Street Journal; Jaclyn Jeffrey-Wilensky, The Wall Street Journal; Caitlin Ostroff, The Wall Street Journal; Brian Whitton, The Wall Street Journal</itunes:author>
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Investigating TikTok through data donations</title>
@@ -594,7 +594,7 @@ Speakers: Alex Richards, Syracuse University; Matt Waite, University of Nebraska
 &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Panel | &lt;strong&gt;Level:&lt;/strong&gt; Beginner | &lt;strong&gt;Tracks:&lt;/strong&gt; Tools &amp;amp; Tech, Data analysis | &lt;strong&gt;Room:&lt;/strong&gt; White River G&lt;/p&gt;</content:encoded>
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Easy visualizations for your first data stories</title>
@@ -615,7 +615,7 @@ Speakers: Adrian D. Garcia, Financial Times Specialist; Elena Mejia, Bloomberg; 
       <itunes:author>Adrian D. Garcia, Financial Times Specialist; Elena Mejia, Bloomberg; Haohsiang Ko, Financial Times; Prinz Magtulis, Reuters</itunes:author>
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Nonprofit data 101</title>
@@ -644,7 +644,7 @@ To gain tax-exempt status, organizations like hospitals, charter schools, colleg
       <itunes:author>Andrea Suozzo, ProPublica; Ellis Simani, ProPublica</itunes:author>
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How we did it: Student-led investigations</title>
@@ -675,7 +675,7 @@ Slides: https://resources.ire.org/tipsheets/20260306-1233.pdf</description>
       <itunes:author>Haley Parsley, Capital News Service; Andrew Miller, Indiana Daily Student; Sana Muneer, Boston University; Matthew Wuschke, Boston University; Elizabeth Alspach, University of Maryland</itunes:author>
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Everything you never wanted to know about crypto: A primer for data investigations</title>
@@ -703,7 +703,7 @@ CoLab notebook: https://colab.research.google.com/drive/1CbNQY1IhY5ShxrNEhELM6Iy
       <itunes:author>Caitlin Ostroff, The Wall Street Journal; Jeremy Merrill, The Washington Post; Sam Kessler, The Wall Street Journal</itunes:author>
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Connect with skeptical and disengaged audiences ... with data!</title>
@@ -724,7 +724,7 @@ Speakers: Eva Constantaras, Lighthouse Reports; Aaron Mendelson, The Trace; Max 
       <itunes:author>Eva Constantaras, Lighthouse Reports; Aaron Mendelson, The Trace; Max Siegelbaum, Documented</itunes:author>
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Automating your data collection with dashboards and AI sponsored by Bright Data</title>
@@ -743,7 +743,7 @@ Speakers: Jennifer Burns, Bright Data; Caelyn Gonzalez, Bright Data</description
       <itunes:author>Jennifer Burns, Bright Data; Caelyn Gonzalez, Bright Data</itunes:author>
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Tracking hidden money, influence and power across borders</title>
@@ -771,7 +771,7 @@ Slides: https://resources.ire.org/tipsheets/20260306-1219-1.pdf</description>
       <itunes:author>Anna Massoglia, MuckRock; Ezana Ćeman, Organized Crime and Corruption Reporting Project; Klil Eden, Organized Crime and Corruption Reporting Project</itunes:author>
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Persuasion 401: The psychology of investigative reporting</title>
@@ -794,7 +794,7 @@ Slides: https://resources.ire.org/tipsheets/20260306-1157.pdf</description>
       <itunes:author>David Cuillier, Brechner FOI Project</itunes:author>
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How to find data</title>
@@ -814,7 +814,7 @@ Speakers: Greg Morton, The Baltimore Banner; Stephanie Lamm, Atlanta Journal-Con
       <itunes:author>Greg Morton, The Baltimore Banner; Stephanie Lamm, Atlanta Journal-Constitution; Sean Mussenden, University of Maryland</itunes:author>
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Analyzing images and videos with AI</title>
@@ -841,7 +841,7 @@ With a little Python and a dash of foundational knowledge, this session will tac
       <itunes:author>Jonathan Soma, Columbia University</itunes:author>
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Accessibility basics</title>
@@ -866,7 +866,7 @@ Slides: https://resources.ire.org/tipsheets/20260306-1096.pdf</description>
       <itunes:author>Stacy Kess, Equal Access Public Media; Emilia Ruzicka, Independent journalist; Patrick Garvin, Maritz Global Events</itunes:author>
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Friday, March 6, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Friday, March 6, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Utilizing new police misconduct and employment databases</title>
@@ -982,7 +982,7 @@ Speakers: Avery Wallace Louis, Stanford University; Hannah Woodworth, Stanford U
       <itunes:author>Avery Wallace Louis, Stanford University; Hannah Woodworth, Stanford Univeristy; Lucy Zimmerman, Stanford University</itunes:author>
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 10:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>We're managers, ask us anything: career, networking, mentorship</title>
@@ -1002,7 +1002,7 @@ Speakers: Cindy Galli, MS NOW; Kate Howard, Reveal from The Center for Investiga
       <itunes:author>Cindy Galli, MS NOW; Kate Howard, Reveal from The Center for Investigative Reporting; Diana Fuentes, Investigative Reporters &amp; Editors</itunes:author>
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 10:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Monitoring police accountability laws across the U.S.</title>
@@ -1036,7 +1036,7 @@ This panel was planned in conjunction with &amp;quot;Utilizing new police miscon
       <itunes:author>Jodi Upton, Syracuse University; Sam Stecklow, Invisible Institute; Sarah Taddeo, USA TODAY Network; David Robinson, Rochester Democrat and Chronicle; Katey Rusch, UC Berkeley</itunes:author>
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 10:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Google Trends for election coverage</title>
@@ -1056,7 +1056,7 @@ This session is sponsored by Google Trends. IRE retains control of content, incl
       <itunes:author>Alejandra Arevalo Zuniga, Google</itunes:author>
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 10:00 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>How to turn local data into far more useful tools for your newsroom — and your audiences</title>
@@ -1076,7 +1076,7 @@ Speakers: AmyJo Brown, The Public Ledger; Rob Reid, Texas Tribune; Jaden Edison,
       <itunes:author>AmyJo Brown, The Public Ledger; Rob Reid, Texas Tribune; Jaden Edison, The Texas Tribune</itunes:author>
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Data in the world of audio</title>
@@ -1096,7 +1096,7 @@ Speakers: Hannah Reale, GBH News; Clayton Guse, WNYC/Gothamist; Amy Qin, WBEZ</d
       <itunes:author>Hannah Reale, GBH News; Clayton Guse, WNYC/Gothamist; Amy Qin, WBEZ</itunes:author>
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Accessing data on deaths in custody</title>
@@ -1126,7 +1126,7 @@ This panel will guide reporters on how to find and use this data to investigate 
       <itunes:author>Ethan Corey, Behind Bars Data Project; A.J. Lagoe, KARE-TV; Ivy Scott, The Marshall Project</itunes:author>
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 8:45 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Supporting the next generation of journalists through a historic slide in U.S. press freedom</title>
@@ -1149,7 +1149,7 @@ Speakers: Andrew Miller, Indiana Daily Student; Mia Hilkowitz, Indiana Universit
       <itunes:author>Andrew Miller, Indiana Daily Student; Mia Hilkowitz, Indiana University; Lucas Griffith, University of Cincinnati; Olivia Mapes, The Purdue Exponent; Stephanie Sugars, U.S. Press Freedom Tracker; Elaine Monaghan, Indiana University</itunes:author>
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Next-gen crime data: Know your NIBRS!</title>
@@ -1183,7 +1183,7 @@ Tipsheet: https://resources.ire.org/tipsheets/20260305-1129-3.pdf</description>
       <itunes:author>Paul Overberg, The Wall Street Journal; Jill Castellano, The Marshall Project; Maia Rosenfeld, KFF Health News</itunes:author>
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Introducing the new IRE Resource Center</title>
@@ -1207,7 +1207,7 @@ Slides: https://palewi.re/docs/ire-archive-slide-deck/</description>
       <itunes:author>Ben Welsh, Reuters; Derek Willis, University of Maryland</itunes:author>
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Everyone can be (and should be) a housing reporter</title>
@@ -1231,7 +1231,7 @@ Slides: https://resources.ire.org/tipsheets/20260305-1007.pdf</description>
       <itunes:author>Juan Pablo Garnham, Eviction Lab; Aaron Mondry, Outlier Media</itunes:author>
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>AI concepts you should know</title>
@@ -1259,7 +1259,7 @@ Website: https://aiglossary.news/</description>
       <itunes:author>Libby Seline, University of Chicago; Ryan Serpico, Hearst; Jon Keegan, Sherwood News</itunes:author>
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 7:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Using data to find sources</title>
@@ -1288,7 +1288,7 @@ Tipsheet: https://resources.ire.org/tipsheets/20260305-1022-1.pdf</description>
       <itunes:author>Brian Whitton, The Wall Street Journal; Aaron Mendelson, The Trace; Adriana Navarro, Arizona Center for Investigative Reporting; Taylor Nichols, Houston Chronicle</itunes:author>
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Investigating the AI data center boom</title>
@@ -1308,7 +1308,7 @@ Speakers: Michelle Ma, Bloomberg; Phoebe Liu, Forbes; Enrique Saenz, MirrorIndy<
       <itunes:author>Michelle Ma, Bloomberg; Phoebe Liu, Forbes; Enrique Saenz, MirrorIndy</itunes:author>
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Finding a needle in a haystack: How to manage document-heavy investigations</title>
@@ -1330,7 +1330,7 @@ You&amp;#x27;ll also learn about Everlaw’s free offering for journalists, whic
       <itunes:author>Chris Miles, Everlaw</itunes:author>
       <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 4:30 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>The SLAPP Back Initiative: Building a first-of-its-kind database</title>
@@ -1353,7 +1353,7 @@ Tipsheet: https://resources.ire.org/tipsheets/20260305-1334.pdf</description>
       <itunes:author>Susanna Granieri, First Amendment Watch</itunes:author>
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Reporting on maternal and infant health in turbulent times</title>
@@ -1383,7 +1383,7 @@ This panel will explore the ways we can use available data to report on maternal
       <itunes:author>Andrea Suozzo, ProPublica; Sophie Chou, Independent journalist; Holly Hacker, KFF Health News</itunes:author>
       <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Pitching, reporting and planning the investigation</title>
@@ -1402,7 +1402,7 @@ Speakers: Francisco Vara-Orta, Investigative Reporters &amp; Editors; Diana Fuen
       <itunes:author>Francisco Vara-Orta, Investigative Reporters &amp; Editors; Diana Fuentes, Investigative Reporters &amp; Editors</itunes:author>
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>From delving into data to door knocking: Finding people behind the numbers and getting them to speak</title>
@@ -1429,7 +1429,7 @@ Slides: https://resources.ire.org/tipsheets/20260305-1009.pdf</description>
       <itunes:author>Jared Kofsky, ABC News; Stephanie Lamm, Atlanta Journal-Constitution; Caresse Jackman, InvestigateTV; Elisabeth Gawthrop, American Public Media; Mark Nichols, ABC News</itunes:author>
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Accessing records to report on immigration enforcement actions</title>
@@ -1451,7 +1451,7 @@ Speakers: Gunita Singh, Reporters Committee for Freedom of the Press (RCFP); Wil
       <itunes:author>Gunita Singh, Reporters Committee for Freedom of the Press (RCFP); Will Craft, The Guardian; Eileen Grench, Documented; Jim Daley, South Side Weekly; Pratheek Rebala, ProPublica</itunes:author>
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:subtitle>Thursday, March 5, 2:00 PM ET</itunes:subtitle>
+      <itunes:subtitle>Thursday, March 5, 3:15 PM ET</itunes:subtitle>
     </item>
     <item>
       <title>Using data to investigate the global surveillance industry</title>
