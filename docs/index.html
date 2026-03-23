@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NICAR Sessions Podcast</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .site-banner {
+      text-align: center;
+      padding: 0.8rem 1rem;
+      background: #000;
+      font-size: 13px;
+    }
+    .site-banner a {
+      color: #fff;
+      text-decoration: none;
+    }
+    .site-banner a:hover {
+      text-decoration: underline;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: #1a1a1a;
+      background: #fafafa;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      text-align: center;
+      padding: 3rem 0 2rem;
+      border-bottom: 2px solid #e0e0e0;
+      margin-bottom: 2rem;
+    }
+    h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    .subtitle { color: #666; font-size: 1.05rem; }
+    .subscribe-section {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    .subscribe-section h2 { font-size: 1.2rem; margin-bottom: 0.75rem; }
+    .feed-url {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    .feed-url input {
+      flex: 1;
+      padding: 0.6rem 0.8rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      font-family: monospace;
+      background: #f5f5f5;
+    }
+    .feed-url button {
+      padding: 0.6rem 1rem;
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    .feed-url button:hover { background: #1d4ed8; }
+    .apps { color: #666; font-size: 0.9rem; }
+    .apps strong { color: #333; }
+    .info {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      font-size: 0.95rem;
+    }
+    .info p { margin-bottom: 0.75rem; }
+    .info p:last-child { margin-bottom: 0; }
+    footer {
+      text-align: center;
+      color: #999;
+      font-size: 0.85rem;
+      padding: 2rem 0;
+      border-top: 1px solid #e0e0e0;
+      margin-top: auto;
+    }
+    footer a { color: #666; }
+  </style>
+</head>
+<body>
+  <div class="site-banner">
+    <a href="https://www.ire.org/donate/" target="_blank" rel="noopener">Support investigative journalism — donate to IRE &rarr;</a>
+  </div>
+  <div class="container">
+    <header>
+      <h1>NICAR Sessions</h1>
+      <p class="subtitle">Audio recordings from IRE's NICAR conferences</p>
+    </header>
+
+    <div class="subscribe-section">
+      <h2>Subscribe to the Podcast Feed</h2>
+      <div class="feed-url">
+        <input type="text" id="feedUrl" value="https://ryan-serpico.github.io/nicar-podcast-feed/feed.xml" readonly>
+        <button onclick="copyFeed()">Copy</button>
+      </div>
+      <p class="apps">
+        Copy the feed URL above and paste it into your podcast app:
+        <strong>Apple Podcasts</strong> (Library &rarr; Add Show by URL),
+        <strong>Overcast</strong> (+ &rarr; Add URL),
+        <strong>Pocket Casts</strong> (Search &rarr; paste URL),
+        <strong>Castro</strong> (+ &rarr; Add by Feed URL),
+        or any other podcast app that supports RSS feeds.
+      </p>
+    </div>
+
+    <div class="info">
+      <p>
+        This podcast feed contains audio recordings from
+        <a href="https://www.ire.org/">IRE</a>'s
+        <a href="https://www.ire.org/training/conferences/nicar-2026/">NICAR</a>
+        data journalism conferences.
+      </p>
+      <p>
+        Each episode includes the session description, speaker bios, and links
+        to slides, tipsheets, and other resources in the show notes.
+      </p>
+      <p>
+        The feed is automatically updated daily to include new recordings
+        as they are posted by IRE.
+      </p>
+    </div>
+
+    <footer>
+      <p>
+        Audio content &copy; <a href="https://www.ire.org/">IRE</a>.
+        Feed generated from
+        <a href="https://www.ire.org/training/conferences/nicar-2026/nicar-2026-tipsheets-and-audio/">IRE's tipsheets &amp; audio page</a>.
+      </p>
+    </footer>
+  </div>
+
+  <script>
+    function copyFeed() {
+      const input = document.getElementById('feedUrl');
+      input.select();
+      navigator.clipboard.writeText(input.value);
+      const btn = input.nextElementSibling;
+      btn.textContent = 'Copied!';
+      setTimeout(() => btn.textContent = 'Copy', 2000);
+    }
+  </script>
+</body>
+</html>

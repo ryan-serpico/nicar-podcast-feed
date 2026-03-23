@@ -1,0 +1,31 @@
+name: Generate Podcast Feed
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Run daily at 6:07 AM UTC to pick up newly posted audio
+    - cron: "7 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed
+        run: python generate_feed.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update podcast feed"
+          file_pattern: "docs/feed.xml"
