@@ -4,7 +4,7 @@
 import json
 import os
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from html import escape
 from html.parser import HTMLParser
@@ -185,8 +185,22 @@ def generate_feed():
             session["_day_label"] = day_label
             episodes.append(session)
 
-    # Sort by start_time
-    episodes.sort(key=lambda s: s["start_time"])
+    # Sort newest first; within the same timeslot, sort alphabetically by title
+    # for a stable, predictable order
+    episodes.sort(key=lambda s: (s["start_time"], s["title"]), reverse=True)
+
+    # Stagger pubDate by 1 minute for concurrent sessions so podcast apps
+    # display them in a consistent order
+    for i, ep in enumerate(episodes):
+        dt = datetime.fromisoformat(ep["start_time"].replace("Z", "+00:00"))
+        # Find how many episodes before this one (in our list) share the same start_time
+        offset = 0
+        for j in range(i - 1, -1, -1):
+            if episodes[j]["start_time"] == ep["start_time"]:
+                offset += 1
+            else:
+                break
+        ep["_pub_date"] = dt - timedelta(minutes=offset)
 
     print(f"Found {len(episodes)} episodes with audio")
 
@@ -257,12 +271,12 @@ def generate_feed():
                     schedule_info = sval
                     break
 
-        # Parse datetime
-        dt = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
+        # Use staggered pub date for consistent ordering
+        pub_dt = ep["_pub_date"]
 
         item = SubElement(channel, "item")
         SubElement(item, "title").text = title
-        SubElement(item, "pubDate").text = format_datetime(dt)
+        SubElement(item, "pubDate").text = format_datetime(pub_dt)
         SubElement(item, "guid", {"isPermaLink": "false"}).text = mp3_url
 
         # Enclosure
@@ -289,7 +303,8 @@ def generate_feed():
 
         # Subtitle from day label
         day_label = ep.get("_day_label", "")
-        time_str = dt.strftime("%-I:%M %p ET")
+        original_dt = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
+        time_str = original_dt.strftime("%-I:%M %p ET")
         SubElement(item, f"{{{ITUNES_NS}}}subtitle").text = (
             f"{day_label}, {time_str}"
         )
