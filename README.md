@@ -11,7 +11,7 @@ If you'd like me to go farther back in time, show your interest by giving this r
 Copy this feed URL into your podcast app:
 
 ```
-https://ryan-serpico.github.io/nicar-podcast-feed/feed.xml
+https://nicar-podcast.com/feed.xml
 ```
 
 ## How it works

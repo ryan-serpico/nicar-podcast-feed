@@ -2,11 +2,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>NICAR 2026 Conference Sessions</title>
-    <link>https://ryan-serpico.github.io/nicar-podcast-feed</link>
+    <link>https://nicar-podcast.com</link>
     <description>Audio recordings from the NICAR 2026 data journalism conference, held March 5-8, 2026 in Indianapolis. Produced by Investigative Reporters and Editors (IRE).</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 22:46:54 +0000</lastBuildDate>
-    <atom:link href="https://ryan-serpico.github.io/nicar-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2026 22:52:09 +0000</lastBuildDate>
+    <atom:link href="https://nicar-podcast.com/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>IRE &amp; NICAR</itunes:author>
     <itunes:summary>Audio recordings from the NICAR 2026 data journalism conference.</itunes:summary>
     <itunes:owner>
@@ -15,7 +15,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <itunes:type>serial</itunes:type>
-    <itunes:image href="https://ryan-serpico.github.io/nicar-podcast-feed/cover.png" />
+    <itunes:image href="https://nicar-podcast.com/cover.png" />
     <item>
       <title>Quick-hit investigations</title>
       <pubDate>Sun, 08 Mar 2026 14:15:00 +0000</pubDate>

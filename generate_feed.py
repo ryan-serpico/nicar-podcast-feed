@@ -17,7 +17,7 @@ SCHEDULE_URL = "https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.co
 
 # Update this after enabling GitHub Pages
 FEED_BASE_URL = os.environ.get(
-    "FEED_BASE_URL", "https://ryan-serpico.github.io/nicar-podcast-feed"
+    "FEED_BASE_URL", "https://nicar-podcast.com"
 )
 FEED_URL = f"{FEED_BASE_URL}/feed.xml"
 
@@ -87,7 +87,7 @@ def build_schedule_lookup(schedule_data: dict) -> dict:
     return lookup
 
 
-def build_show_notes(audio_session: dict, schedule_info: dict | None) -> str:
+def build_show_notes(audio_session: dict, schedule_info=None) -> str:
     """Build HTML show notes for an episode."""
     parts = []
 
@@ -147,7 +147,7 @@ def build_show_notes(audio_session: dict, schedule_info: dict | None) -> str:
     return "\n".join(parts)
 
 
-def make_plain_description(audio_session: dict, schedule_info: dict | None) -> str:
+def make_plain_description(audio_session: dict, schedule_info=None) -> str:
     """Build a plain-text description for the <description> tag."""
     parts = []
     if schedule_info and schedule_info["description"]:
