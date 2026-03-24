@@ -11,6 +11,9 @@
       padding: 0.8rem 1rem;
       background: #000;
       font-size: 13px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
     }
     .site-banner a {
       color: #fff;
@@ -114,12 +117,7 @@
         <button onclick="copyFeed()">Copy</button>
       </div>
       <p class="apps">
-        Copy the feed URL above and paste it into your podcast app:
-        <strong>Apple Podcasts</strong> (Library &rarr; Add Show by URL),
-        <strong>Overcast</strong> (+ &rarr; Add URL),
-        <strong>Pocket Casts</strong> (Search &rarr; paste URL),
-        <strong>Castro</strong> (+ &rarr; Add by Feed URL),
-        or any other podcast app that supports RSS feeds.
+        Copy the feed URL above and paste it into any podcast app that supports RSS feeds.
       </p>
     </div>
 
@@ -145,6 +143,10 @@
         Audio content &copy; <a href="https://www.ire.org/">IRE</a>.
         Feed generated from
         <a href="https://www.ire.org/training/conferences/nicar-2026/nicar-2026-tipsheets-and-audio/">IRE's tipsheets &amp; audio page</a>.
+      </p>
+      <p>
+        Built by <a href="https://ryanserpi.co/">Ryan Serpico</a>.
+        <a href="https://github.com/ryan-serpico/nicar-podcast-feed">View source on GitHub</a>.
       </p>
     </footer>
   </div>
