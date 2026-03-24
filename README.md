@@ -2,6 +2,8 @@
 
 A podcast RSS feed for audio recordings from the [NICAR 2026](https://www.ire.org/training/conferences/nicar-2026/) data journalism conference (Indianapolis, March 5–8, 2026).
 
+If you'd like me to go farther back in time, show your interest by giving this repo a star ⭐.
+
 ## Subscribe
 
 Copy this feed URL into your podcast app:
