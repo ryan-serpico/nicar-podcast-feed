@@ -1,3 +1,5 @@
+> **[Support investigative journalism — donate to IRE](https://www.ire.org/donate/)**
+
 # NICAR 2026 Podcast Feed
 
 A podcast RSS feed for audio recordings from the [NICAR 2026](https://www.ire.org/training/conferences/nicar-2026/) data journalism conference (Indianapolis, March 5–8, 2026).
